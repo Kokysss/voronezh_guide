@@ -1,4 +1,4 @@
-/* Базовые настройки */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -18,7 +18,7 @@ body {
     padding: 20px;
 }
 
-/* Шапка и Навигация */
+
 header {
     background: #2c3e50;
     color: #fff;
@@ -52,7 +52,7 @@ nav {
     font-weight: bold;
 }
 
-/* Баннер (Hero) */
+
 .hero {
     background: #34495e;
     color: #fff;
@@ -64,7 +64,6 @@ nav {
     margin-bottom: 10px;
 }
 
-/* Кнопка */
 .btn {
     display: inline-block;
     background: #e74c3c;
@@ -75,7 +74,7 @@ nav {
     margin-top: 15px;
 }
 
-/* Простая сетка для карт */
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -90,7 +89,7 @@ nav {
     border: 1px solid #ddd;
 }
 
-/* Простое и надежное оформление картинок */
+
 img {
     max-width: 100%;
     height: auto;
@@ -112,7 +111,7 @@ img {
     margin-bottom: 10px;
 }
 
-/* Форма */
+
 .contact-form {
     background: #fff;
     padding: 20px;
@@ -138,7 +137,7 @@ img {
     border-radius: 4px;
 }
 
-/* Подвал */
+
 footer {
     text-align: center;
     padding: 20px;
